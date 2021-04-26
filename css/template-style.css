@@ -91,7 +91,6 @@ blockquote {
 a.text-tag:link {
   border: 1px solid #e5e5e5;
   display: inline-block;
-  float: left;
   font-size: 0.75rem;
   margin: 1px 2px 1px 0;
   padding: 6px 9px;
@@ -215,9 +214,7 @@ td {border-right:1px solid #fff;}
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0!important;
   border: 0;
 }
-.logo{
 
-  }
 
 /* Breaks */
 hr.break {
@@ -1153,7 +1150,7 @@ form.customform input:hover, form.customform textarea:hover, form.customform sel
       margin-right: 0.625rem;
       max-width: 100%;
       text-align: center;
-      vertical-align: middle;
+     
     }
     .nav-text::after {
       color: #454545;
@@ -1760,6 +1757,7 @@ section, header {
 @media screen and (max-width:480px) {
   .aside-nav li a {text-align: left;}
 }
+
 /* Portfolio Tabs */
 .tab-nav.line {
   padding-bottom: 2rem;
@@ -1893,7 +1891,7 @@ a.tab-label.active-btn {
   @media screen and (max-width:627px) {
   .botao{
     margin-top: 200px;
-    margin-left: 28%;
+    margin-left: 26%;
   
   }
   @media screen and (max-width:420px) {
@@ -1903,5 +1901,6 @@ a.tab-label.active-btn {
      margin-left: 15%;
     
     }
+      }
   
   
