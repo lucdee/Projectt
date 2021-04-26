@@ -1904,10 +1904,4 @@ a.tab-label.active-btn {
     
     }
   
-  @media screen and (max-width:381px) {
-    .botao{
-      margin-left: 30px;
-      margin-top: 200px;
-    }
-    }
-}
+  
