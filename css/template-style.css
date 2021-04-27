@@ -173,11 +173,26 @@ iframe {
   font-size: 20px;
   color:rgb(0, 35, 36);
 }
+.botao4{
+
+  margin-top: 2%;
+  background: #ffffff;
+  height: 40px;
+  width: 200px;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #23bdec;
+  font-size: 20px;
+  color:rgb(0, 35, 36);
+}
 .botao2:hover{
   background:  #23bdec;
 }
 .botao3:hover{
   background:  #23bdec;
+}
+.botao4:hover{
+  background:  #0e92b9;
 }
 .planos{
  height: 700px;
@@ -266,6 +281,24 @@ iframe {
  .tex{
   margin-left: 13%;
   margin-top: 4%;
+ }
+ .end{
+   height: 400px;
+   width: 100%;
+   background-color:#23bdec ;
+   display: flex;
+ }
+ .divend{
+   margin-left: 10%;
+   margin-top: 6%;
+ }
+ .divend2{
+  margin-left: 7%;
+  margin-top: 6%;
+}
+ .dinbot{
+   color: #eee;
+   margin-top: 29px;
  }
  
 /* Tables */
