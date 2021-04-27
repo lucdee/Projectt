@@ -299,7 +299,20 @@ iframe {
  .dinbot{
    color: #eee;
    margin-top: 29px;
+   display: flex;
  }
+ .icone{
+   height: 20px;
+   width: 20px;
+   margin-left: 5px;
+  
+ }
+ .icone2{
+  height: 30px;
+  width: 15px;
+  margin-left: 5px;
+ 
+}
  
 /* Tables */
 table {
