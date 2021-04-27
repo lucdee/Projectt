@@ -206,7 +206,7 @@ iframe {
 .buttonplanos{
   background: #23bdec;
   height: 5%;
-  width: 95%;
+  width: 96.5%;
   border-radius: 50px;
  border-style: solid;
  border-color: #28a5df;
@@ -308,8 +308,8 @@ iframe {
   
  }
  .icone2{
-  height: 30px;
-  width: 15px;
+  height: 25px;
+  width: 14px;
   margin-left: 5px;
  
 }
@@ -1337,6 +1337,10 @@ height: 550px;
 }
 .botao3{
   margin-left: 25%;
+}
+.end{
+  display: block;
+  height: 600px;
 }
 
 
