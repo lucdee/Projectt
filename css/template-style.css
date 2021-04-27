@@ -2131,4 +2131,11 @@ a.tab-label.active-btn {
      margin-left: 19%;
     
     }
+    @media screen and (max-width:420px) {
+      .botao{
+        
+       margin-top:200px ;
+       margin-left: 13%;
+      
+      }
       }
