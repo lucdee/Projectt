@@ -2050,17 +2050,19 @@ a.tab-label.active-btn {
       }
         }
   }
+  
   @media screen and (max-width:627px) {
   .botao{
     margin-top: 200px;
     margin-left: 26%;
   
   }
-  @media screen and (max-width:420px) {
+   }
+  @media screen and (max-width:480px) {
     .botao{
       
      margin-top:200px ;
-     margin-left: 15%;
+     margin-left: 17%;
     
     }
       }
